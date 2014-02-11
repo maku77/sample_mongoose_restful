@@ -1,0 +1,8 @@
+*/cache/*
+*/cache/!index.html
+*/config/development
+*/logs/log-*.php
+*/logs/!index.html
+
+node_modules/
+npm-debug.log
